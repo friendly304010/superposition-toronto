@@ -8475,3 +8475,11 @@ body.active-dark {
 .active-dark .popup-modal1 .modal-dialog {
     background: #101010;
 }
+
+.research-card {
+    transition: all 0.3s;
+}
+
+.research-card:hover {
+    transform: scale(1.1);
+}
